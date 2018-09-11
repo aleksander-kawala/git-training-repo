@@ -1,1 +1,1 @@
-print('Fetching FGBs...')
+print('Fetching FGB's...')
