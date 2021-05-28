@@ -1,1 +1,0 @@
-print('Fetching FGB's...')
